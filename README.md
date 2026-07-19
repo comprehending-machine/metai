@@ -1,1 +1,1 @@
-### Thingking-Machine (metai)
+### Comprehending-Machine (metai)
